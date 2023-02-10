@@ -25,9 +25,9 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ### Level 3 (4 pts)
 
-**PART** 1 pt: Can successfully add a new `Computer` to the inventory
+**YES** 1 pt: Can successfully add a new `Computer` to the inventory
 
-**PART** 1 pt: Can successfully remove a `Computer` from the inventory
+**YES** 1 pt: Can successfully remove a `Computer` from the inventory
 
 **YES** 1 pt: Can successfully update the price/OS of a `Computer` contained in the inventory
 
@@ -35,9 +35,9 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ## General Items (10 pts):
 
-**PART** 4 pts: Program executes fully & consistently without crashing (exception/freeze)
+**YES** 4 pts: Program executes fully & consistently without crashing (exception/freeze)
 
-**PART** 1 pt: Classes & class members all have header comments
+**YES** 1 pt: Classes & class members all have header comments
 
 **YES** 1 pt: Clear and consistent indentation
 
